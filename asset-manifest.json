@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myLamp/static/css/main.cdf703cf.css",
+    "main.js": "/myLamp/static/js/main.4c42e5ce.js",
+    "static/js/787.78335f22.chunk.js": "/myLamp/static/js/787.78335f22.chunk.js",
+    "index.html": "/myLamp/index.html",
+    "main.cdf703cf.css.map": "/myLamp/static/css/main.cdf703cf.css.map",
+    "main.4c42e5ce.js.map": "/myLamp/static/js/main.4c42e5ce.js.map",
+    "787.78335f22.chunk.js.map": "/myLamp/static/js/787.78335f22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdf703cf.css",
+    "static/js/main.4c42e5ce.js"
+  ]
+}
