@@ -1,0 +1,21 @@
+body{
+  display:flex;
+  justify-content:center;
+  text-align:center;
+}
+
+button{
+  border-radius: 20px;
+  width: 4em;
+}
+
+button:hover{
+  background-color: gray;
+  color:white;
+  border:1px solid black;
+}
+
+.tomato{
+  color:tomato;
+}
+.black{ color:black;}
